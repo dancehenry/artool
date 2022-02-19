@@ -15,12 +15,12 @@
   <manifest></manifest>
   <icon>C:\temp\artool\bin\artool_2.ico</icon>
   <jre>
-    <path>jre\</path>
+    <path>jre</path>
     <bundledJre64Bit>false</bundledJre64Bit>
     <bundledJreAsFallback>false</bundledJreAsFallback>
     <minVersion>1.0.0</minVersion>
     <maxVersion></maxVersion>
     <jdkPreference>jdkOnly</jdkPreference>
-    <runtimeBits>64/32</runtimeBits>
+    <runtimeBits>32</runtimeBits>
   </jre>
 </launch4jConfig>
