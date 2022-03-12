@@ -1,0 +1,5 @@
+Payment Date,Payment Number,Payment Customer,PO# /INV#, Payment Amount , Deduction Amount ,Account Code,Memo
+1/28/2016,22222,customer_2,AB1111,16,,,Invoice Apply
+1/28/2016,22222,customer_2,AB1112,78,,,Invoice Apply
+1/28/2016,22222,customer_2,AB1113,84.5,,,Invoice Apply
+1/28/2016,22222,customer_2,AB1114,84.5,,,Invoice Apply
