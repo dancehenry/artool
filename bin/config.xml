@@ -2,8 +2,8 @@
 <launch4jConfig>
   <dontWrapJar>false</dontWrapJar>
   <headerType>gui</headerType>
-  <jar>C:\Users\hangy\IdeaProjects\ARTool\out\artifacts\ARTool_jar\ARTool.jar</jar>
-  <outfile>C:\temp\artool\artool.exe</outfile>
+  <jar>C:\git\localrepo\artool\src\ARTool.jar</jar>
+  <outfile>C:\git\localrepo\artool\ARTool.exe</outfile>
   <errTitle></errTitle>
   <cmdLine></cmdLine>
   <chdir>.</chdir>
@@ -13,14 +13,14 @@
   <stayAlive>false</stayAlive>
   <restartOnCrash>false</restartOnCrash>
   <manifest></manifest>
-  <icon>C:\temp\artool\bin\artool_2.ico</icon>
+  <icon>C:\git\localrepo\artool\bin\artool_2.ico</icon>
   <jre>
     <path>jre</path>
     <bundledJre64Bit>false</bundledJre64Bit>
     <bundledJreAsFallback>false</bundledJreAsFallback>
-    <minVersion>1.0.0</minVersion>
+    <minVersion>1.0</minVersion>
     <maxVersion></maxVersion>
     <jdkPreference>jdkOnly</jdkPreference>
-    <runtimeBits>64</runtimeBits>
+    <runtimeBits>64/32</runtimeBits>
   </jre>
 </launch4jConfig>

@@ -1,3 +1,2 @@
 # ignore config files and log file
-bin/config.xml
 user_profile.json
